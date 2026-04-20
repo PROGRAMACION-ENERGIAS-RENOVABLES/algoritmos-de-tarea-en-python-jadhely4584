@@ -1,0 +1,4 @@
+m=float(input("ingrese la masa en kg:"))
+C=29979
+energia=m*C**2
+print("energia=",energia,"J")
